@@ -11,7 +11,6 @@ These principles are my north star, guiding me to build software that doesn't ju
 
 - 🛠️ **Technical Mastery:** I thrive on mastering the intricacies of technology to push the boundaries of what's possible.
 - 🚀 **Innovative Mindset:** For me, every problem is a stepping stone to innovation.
-- 💼 **Professional Responsibility:** I hold myself accountable to deliver not just results, but results that resonate with impact and integrity.
 - 🔍 **Purposeful Work:** I'm driven by work that matters — projects that might one day influence the world for the better.
 
 🙏 Thank you for stopping by my corner of GitHub. I'm always eager to connect with fellow tech enthusiasts and professionals!
