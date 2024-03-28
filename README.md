@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software craftsman with a deep passion for merging technical prowess and sharp problem-solving acumen to catalyze innovation and engineer solutions that make a difference. My journey is underscored by two fundamental tenets: **responsibility** and the relentless pursuit of **meaningful work**.
+I'm a software craftsman with a deep passion for merging my technical skills and sharp problem-solving acumen to engineer solutions that make a difference. My journey is underscored by two fundamental tenets: **responsibility** and the relentless pursuit of **meaningful work**.
 
 These principles are my north star, guiding me to build software that doesn't just work, but works wonders for others, aspiring to leave a positive imprint on the future. Here's a bit more about what makes me tick:
 
