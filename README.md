@@ -17,7 +17,7 @@ These principles are my north star, guiding me to build software that doesn't ju
 
 ## Connect with Me
 
-- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> [LinkedIn](https://www.linkedin.com/in/yow-weng-onn/)
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [LinkedIn](https://www.linkedin.com/in/yow-weng-onn/)
 - 📫 How to reach me: wayneonn99@gmail.com
 
 Feel free to reach out if you're interested in collaborating on a project, exchanging ideas, or just want to say hi!
