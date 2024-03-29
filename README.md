@@ -5,9 +5,7 @@
 
 ## About Me
 
-I'm a software developer with a deep passion for merging my technical skills and sharp problem-solving acumen to engineer solutions that make a difference. My journey is underscored by two fundamental tenets: **responsibility** and the relentless pursuit of **meaningful work**.
-
-These principles are my north star, guiding me to build software that doesn't just work, but works wonders for others, aspiring to leave a positive imprint on the future. Here's a bit more about what makes me tick:
+Here's a bit more about what makes me tick:
 
 - 🛠️ **Technical Mastery:** I thrive on mastering the intricacies of technology to push the boundaries of what's possible.
 - 🚀 **Innovative Mindset:** For me, every problem is a stepping stone to innovation.
