@@ -22,9 +22,3 @@ Here's a bit more about what makes me tick:
 Feel free to reach out if you're interested in collaborating on a project, exchanging ideas, or just want to say hi!
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=wayneonn&theme=dark&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=wayneonn&icon=0&color=0)](https://visitcount.itsvg.in)
